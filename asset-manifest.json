@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-04-phonebook/static/css/main.12add031.css",
+    "main.js": "/goit-react-hw-04-phonebook/static/js/main.48991079.js",
+    "static/media/high-angle-telephone-and-books.jpg": "/goit-react-hw-04-phonebook/static/media/high-angle-telephone-and-books.9fba32dcc3c69e68e1d5.jpg",
+    "index.html": "/goit-react-hw-04-phonebook/index.html",
+    "main.12add031.css.map": "/goit-react-hw-04-phonebook/static/css/main.12add031.css.map",
+    "main.48991079.js.map": "/goit-react-hw-04-phonebook/static/js/main.48991079.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12add031.css",
+    "static/js/main.48991079.js"
+  ]
+}
