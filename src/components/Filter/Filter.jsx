@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { LabelWrapper, Label, Input } from './Filter.styled';
 
-const Filter = ({ value, onChange }) => (
+export const Filter = ({ value, onChange }) => (
   <Label>
     <LabelWrapper>Find contacts by name</LabelWrapper>
     <Input
@@ -13,8 +13,6 @@ const Filter = ({ value, onChange }) => (
     />
   </Label>
 );
-
-export default Filter;
 
 Filter.propTypes = {
   onChange: PropTypes.func.isRequired,
